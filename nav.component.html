@@ -1,0 +1,18 @@
+<div class="navbar navbar-expand-sm bg-secondary navbar-dark fixed-top">
+    <span class="navbar-brand">
+        Racer's Rental Ratings
+    </span>
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" routerLink='/'>Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" routerLink='/cars'>Cars</a>
+        </li>
+    </ul>
+
+    <div class="form-inline ml-auto">
+        <button class="btn btn-outline-light" (click) = "authService.login()" *ngIf = "!authService.loggedIn">Log In</button>
+        <button class="btn btn-outline-light" (click) = "authService.logout()" *ngIf = "authService.loggedIn">Log Out</button>
+    </div>
+</div>
