@@ -1,0 +1,32 @@
+[{
+	"_id": {
+		"$oid": "589ddf35f3ff092e206f04e8"
+	},
+	"city": "Glendale",
+	"review_count": 6,
+	"name": "Southwest Veterinary Oncology",
+	"neighborhoods": [],
+	"open": true,
+	"business_id": "3NKwuV-QLXYYceEPpNa9ng",
+	"full_address": "6677 W Thunderbird Rd\nSte L-188\nGlendale, AZ 85306",
+	"hours": {},
+	"reviews": [
+		{
+			"username": "Heather",
+			"votes": {
+				"funny": 1,
+				"useful": 6,
+				"cool": 3
+			},
+			"user_id": "wHg1YkCzdZq9WBJOTRgxHQ",
+			"review_id": "MGHbSYdVre1zvIIdEeHwwA",
+			"text": "Southwest Veterinary Oncology is a division of Southwest Veterinary Referral Center, which offers a variety of veterinary specialists in one location.  The oncologist is actually in North Scottsdale twice weekly, which was an added bonus.\n\nWe met with Dr. Hillers to discuss Big Sexy's treatment options for basal cell carcinoma around his ear.  Our regular vet indicated it would probably be surgery, but suggested we get a specialist involved.  Based only on our initial consultation, I can give Dr. Hillers nothing less than 5 stars.  She was pleasant, good with Mr. Fabulous (Big Sexy, not my husband), and clearly an expert in her field.  Without question, she was interested in doing what's best for the cat, and not the clinic's finances.\n\nBased on the cat's age, intolerance for stress (yes, he pooped once in my car, twice in their office), and other health conditions, she advised neither radiation therapy (5 days per week!) nor radical surgery were the best options, especially given the cost vs the likelihood that the tumors would return anyway.  Instead, she suggested use of a topical cream marketed for the two-legged population, which can be applied at home and will hopefully result in making Big Sexy more comfortable.  We were given the option of a chest x-ray for a metastatic check, but were not encouraged to get it unless we felt it would change our preferred course of treatment.  My husband insisted we get it for my peace of mind, and we were promptly e-mailed the radiologist's report so that we could ignore his recommendation anyway:)\n\nThe consultation was very reasonably priced, and the bloodwork and x-rays were comparable to what my regular vet charges.  I really do highly recommend Dr. Hillers if you're in a similar situation.",
+			"business_id": "3NKwuV-QLXYYceEPpNa9ng",
+			"stars": 5,
+			"date": "2009-12-24",
+			"type": "review",
+			"_id": {
+				"$oid": "58b4394ed256330fdad6fa63"
+			}
+        }]
+}]

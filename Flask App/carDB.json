@@ -1,0 +1,72 @@
+[
+    {
+        "_id": {
+            "$oid": "589ddf35f3ff092e206f04e8"
+        },
+        "make": "Ford",
+        "model": "Focus",
+        "year": "2016",
+        "engine": "1.9",
+        "fuel": "Petrol",
+        "doors": "5",
+        "type": "Hatchback",
+        "mpg": "40",
+        "car_id": "71790faaa02b6349b85e47",
+        "reviews": [
+            {
+                "username": "John",
+                "votes": {
+                    "funny": 0,
+                    "useful": 5,
+                    "cool": 1
+                },
+                "user_id": "wHg1YkCzdZq9WBJOTRgxHQ",
+                "review_id": "MGHbSYdVre1zvIIdEeHwwA",
+                "text":"I would highly recommend this car. Great driving experience and is big enough for the whole family!",
+                "car_id": "71790faaa02b6349b85e47",
+                "stars": 5,
+                "date": "2009-12-24",
+                "type": "review",
+                "_id": {
+                    "$oid": "58b4394ed256330fdad6fa63"
+                }
+            },
+            {
+                "username": "Bill",
+                "votes": {
+                    "funny": 0,
+                    "useful": 5,
+                    "cool": 1
+                },
+                "user_id": "8faf2680974d76646a4608",
+                "review_id": "1661702478195a922d6da2",
+                "text":"I would highly recommend this car. Great driving experience and is big enough for the whole family!",
+                "car_id": "71790faaa02b6349b85e47",
+                "stars": 5,
+                "date": "2009-12-24",
+                "type": "review",
+                "_id": {
+                    "$oid": "58b4394ed256330fdad6fa63"
+                }
+            }, 
+            {
+                "username": "John",
+                "votes": {
+                    "funny": 0,
+                    "useful": 5,
+                    "cool": 1
+                },
+                "user_id": "abc89b8f52a5f31f4c2ce3",
+                "review_id": "2e751145756d2aae993a3c",
+                "text":"I would highly recommend this car. Great driving experience and is big enough for the whole family!",
+                "car_id": "71790faaa02b6349b85e47",
+                "stars": 5,
+                "date": "2009-12-24",
+                "type": "review",
+                "_id": {
+                    "$oid": "58b4394ed256330fdad6fa63"
+                }
+            }
+        ]
+    }
+]
